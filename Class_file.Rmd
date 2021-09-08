@@ -1,0 +1,11 @@
+---
+title: "Class"
+author: "Kent Williams"
+date: "9/8/2021"
+output: pdf_document
+---
+
+```{r}
+print("I'm Learning to Use Github...Boom")
+```
+
